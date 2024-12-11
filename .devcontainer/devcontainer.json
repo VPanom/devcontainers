@@ -1,0 +1,6 @@
+{
+  "build": {"dockerfile": "Dockerfile"},
+  "runArgs": [
+    "--cap-add=NET_ADMIN"
+]
+}
